@@ -1,2 +1,2 @@
 # aria
-A smarter smart watch.
+A smarter smartwatch.
